@@ -25,3 +25,8 @@ console.log(!!NaN)
 console.log(!!undefined)
 console.log(!!(isAtivo = false))
 
+console.log("para finalizar...")
+console.log(!!('' || null || 0 || ' '))
+
+let nome = 'Fulvio'
+console.log(nome || 'Desconhecido')                     //Verificando caso haja nome na variavel let, caso não, imprimir desconhecido.
