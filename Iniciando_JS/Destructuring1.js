@@ -6,7 +6,6 @@ const pessoa = {
         numero: '928'
     }
 }
-
 const {nome, idade} = pessoa //Tirando nome e idade da constante "pessoa", método para retirar vários atributos de um objeto sem imprimir ele todo.
 console.log(nome, idade)
 
