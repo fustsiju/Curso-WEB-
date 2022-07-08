@@ -4,4 +4,5 @@ const a = 3 // let a = 3
                             // modificada, priorizar em programas
                             // que não precise modificar alguns valores.
 // a = a + 10
+
 console.log(a)
