@@ -5,5 +5,4 @@ const a = 3 // let a = 3
                             // que não precise modificar alguns valores.
 // a = a + 10
 
-
 console.log(a)
